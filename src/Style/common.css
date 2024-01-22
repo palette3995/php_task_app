@@ -1,0 +1,45 @@
+.header {
+    background-color: #FDF7E4;
+    height: 80px;
+    color: #BBAB8C;
+}
+
+.header-link {
+    margin-right: 4rem;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    color: #BBAB8C;
+
+    .footer {
+        background-color: #FDF7E4;
+        height: 500px;
+        margin-top: 200px;
+    }
+}
+
+.task-create-modal { 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #DED0B6;
+    border-radius: 10px;
+    display: none;
+}
+
+.active {
+    display: block;
+}
+
+.form-input {
+    margin-top: 20px;
+}
+
+.form-control {
+    background-color: #DED0B6;
+    border: none;
+}
