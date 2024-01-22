@@ -1,0 +1,6 @@
+{
+    "name": "windows/src",
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
